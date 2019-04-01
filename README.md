@@ -1,5 +1,6 @@
 # MDK4
 
+(This is a developer branch. Specifically targeted for OpenWRT's Toolchain/SDK.  
 MDK is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses.
 
 

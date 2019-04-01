@@ -1,9 +1,11 @@
+#define _NET_IF_H 1
 #include <errno.h>
 #include <string.h>
 #include <stdio.h>
-#include <net/if.h>
 #include <sys/types.h>
+#include <sys/socket.h>
 #include <sys/stat.h>
+#include <net/if.h>
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdbool.h>
